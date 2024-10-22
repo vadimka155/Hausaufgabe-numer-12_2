@@ -1,8 +1,4 @@
-:root {
-    --gray:#2F303A;
---button: #2196F3;
---white: rgb(255, 255, 255);
-}
+
 header{color: #FFFFFF;}
 
 body{
@@ -17,6 +13,7 @@ line-height: 1.8;
 font-weight: 700;
   text-align: center;
 
+
 }
 
 .logo-header{ color:#000000;
@@ -30,7 +27,9 @@ font-weight: 700;
 }
 
 
-
+a {
+  text-decoration: none;
+}
 
 
 h1{
